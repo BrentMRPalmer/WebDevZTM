@@ -1,0 +1,5 @@
+Why does he call the file index.html?
+
+Normally there are more than a few HTML files.
+The default is that the server returns index.html as the home page.
+It is a common practice to call the home page index.html.

@@ -1,0 +1,15 @@
+Relative vs. Absolute Path
+
+What does https:// mean?
+
+file:///C:/Season6/WebDevZTM/S4HTML5/first_website.html
+We used href without anything like that.
+That is because that is an absolute path, that is exactly where 
+it is stored in our file.
+Using just about.html, for example, as the href is a relative path
+that just checks the current folder. 
+It basically means a path relative to where we currently are (can still
+navigate down multiple directories).
+
+An absolute link can be used from anywhere - for example, the png link 
+of the apples.

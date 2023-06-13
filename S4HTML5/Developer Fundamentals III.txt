@@ -1,0 +1,8 @@
+Developer Fundamentals III
+
+<!DOCTYPE html>
+Doctype tells the browser that the file will be using HTML5
+
+Most of the time as developers, there is so much information out
+there that we cannot remember everything. Therefore, it is important
+to be able to learn how to Google things when necessary. 
