@@ -1,0 +1,1 @@
+ctrl + shift + c on a website allows you to access the html code and edit it (on windows)

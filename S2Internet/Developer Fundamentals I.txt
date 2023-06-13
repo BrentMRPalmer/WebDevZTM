@@ -1,0 +1,6 @@
+Developer Fundamentals 1
+
+What can make retrieving a website fast:
+1) Location of server (closer server can load faster)
+2) How many trips (how many servers need to be accessed)
+3) Size of files (larger files take longer to transmit)

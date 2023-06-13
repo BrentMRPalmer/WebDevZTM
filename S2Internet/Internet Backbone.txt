@@ -1,0 +1,14 @@
+The Internet Backbone
+
+What do the arrows mean? (Web page -> Google servers)
+
+1) Home Wifi provided by router
+2) Router is connected to a modem
+3) Modem transmits to signal towers
+4) Signal towers connect to ISP network
+5) ISP connected to "Internet backbone"
+
+What is the Internet Backbone?
+Look up the Submarine Cable Map
+It shows where all of the cables are that provide the Internet
+Those cables make up the Internet Backbone

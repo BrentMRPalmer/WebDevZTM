@@ -1,0 +1,7 @@
+Traceroute
+
+tracert google.com (windows command)
+
+
+Shows the requests for a website (all of the different
+IPs that are involved)

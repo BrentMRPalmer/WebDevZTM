@@ -1,0 +1,5 @@
+What does a developer do?
+
+Front End Developer makes the HTML, CSS, JS (what the user sees)
+Back End Developer makes the server and handles the database (what the user doesn't see)
+Full stack developer makes both

@@ -1,0 +1,13 @@
+Browsing the Web
+
+What happens when you type something into web browser?
+
+1) Who is google.com? Question asked to ISP (who you pay for internet, like Bell)
+ISP -> internet service provider
+2) I don't know him personally, but here is his address: 172.217.7.23 (like a phone book)
+DNS -> domain name servers
+3) DNS sends the request back to ISP, and then back to web browser
+4) The browser uses Google's IP to contact the Google servers, 
+and the Google servers return the necessary HTML, CSS, and Javascript files
+Servers have a piece of software running that knows how to send files when requested
+5) The web browser uses those files to display the web page
