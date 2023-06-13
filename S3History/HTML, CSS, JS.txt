@@ -1,0 +1,14 @@
+HTML, CSS, Javascript
+
+HTML
+A way for us to just write text on websites. 
+Can also have hyperlinks that can direct to
+other parts of the website.
+
+CSS and JS were created in 1995
+
+CSS 
+A way to add visual aspects to websites.
+
+JS 
+A way to add further interactivity to the websites.

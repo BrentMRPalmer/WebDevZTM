@@ -1,0 +1,13 @@
+WWW vs. Internet
+
+Sir Tim Berners-Lee invented the World Wide Web in 1989.
+
+Started with ARPANET in 1969, a military project.
+It kept growing
+Academics needed a way to share documents.
+
+The world wide web is a common language that computers can
+speak (before it was as if there was a language barrier
+between languages that made it difficult to share documents).
+
+Tim created the first browser and the first server. 

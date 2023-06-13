@@ -1,0 +1,11 @@
+Developer Fundamentals II
+
+We have multiple web browsers.
+They all have to agree on how to read the HTML, CSS, and JS, despite
+being owned by different companies.
+
+When the WWW there were "browser wars" where the browsers were not standardized
+and had different conventions.
+
+Now we also need to accomodate for mobile devices 
+with different screen sizes. 

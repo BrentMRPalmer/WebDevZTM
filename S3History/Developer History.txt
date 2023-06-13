@@ -1,0 +1,16 @@
+Developer History
+
+How web apps were built in the early 2000s.
+
+Instead of just JS, there was something called JQuery. It created an
+environment for JS to flourish - helped accommodate for different browsers.
+
+The backend used LAMP stack (Linux, Apache, MySQL, PHP). 
+PHP was used for logic on the servers.
+Apache is a software that really efficiently serves up files.
+PHP is now a very unpopular language in terms of growth and job opportunities.
+
+This course:
+JS + React
+Servers -> Node.js, Express.js
+Database -> PostgreSQL, MongoDB
