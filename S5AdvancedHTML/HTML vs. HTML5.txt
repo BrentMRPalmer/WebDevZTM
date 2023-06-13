@@ -1,0 +1,28 @@
+HTML vs. HTML5
+
+HTML originally wasn't as elaborate.
+
+HTML5 is part of the evolution of HTML, which has more features
+to improve user experience.
+
+One of the goals is to not deprecate old HTML code - it should be 
+backwards compatible. In other words, new HTML versions 
+will only add new things.
+
+HTML5 introduced an idea of semantic elements.
+It adds more meaning so that web crawlers like Google's search 
+engine can adequately recommend the website.
+
+An example of a semantic element is
+	<header>
+		<h1>Register</h1>W
+	</header>
+
+	or
+
+	<nav>
+		<a href="www.google.com">
+	</nav?
+
+This gives a lot more meaning to the structure
+of webpages.

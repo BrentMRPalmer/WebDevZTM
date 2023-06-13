@@ -1,0 +1,4 @@
+Copy a Page
+
+Ctrl + U 
+Allows you to view the source code of a website.
